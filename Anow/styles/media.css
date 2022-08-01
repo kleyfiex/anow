@@ -1,0 +1,16 @@
+@media screen and (max-width:985px) {}
+
+@media screen and (max-width:650px) {
+    nav {
+        display: none;
+    }
+    .p1 {
+        font-size: 100px;
+    }
+}
+
+@media screen and (max-width:400px) {
+    section.start .i {
+        display: none;
+    }
+}
